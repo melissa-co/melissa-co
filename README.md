@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @melissa-co
+Hi, I’m @melissa-co
 
 <!---
 melissa-co/melissa-co is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
